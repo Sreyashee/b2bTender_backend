@@ -3,7 +3,7 @@
     "target": "ES6",                    // Output modern JavaScript
     "module": "CommonJS",              // For Node.js
     "rootDir": "./src",                // Source files directory
-    "outDir": "./dist",                // Compiled output directory
+    "outDir": "dist",                // Compiled output directory
     "strict": true,                    // Enable all strict type checks
     "esModuleInterop": true,           // Allow default imports from CommonJS
     "forceConsistentCasingInFileNames": true,
